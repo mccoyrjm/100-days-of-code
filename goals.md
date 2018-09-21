@@ -1,4 +1,4 @@
-# Goal for this Challenge
+# Goal for Challenge
 
 The main focus of this challenge will be to continue my education of Front-End development following the [Front-End Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) by [kamranahmedse](https://github.com/kamranahmedse/developer-roadmap/commits?author=kamranahmedse).
 
