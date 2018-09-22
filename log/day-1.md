@@ -11,4 +11,4 @@
 * **arrow functions** - [Babel](https://babeljs.io/repl#?babili=false&browsers=&build=&builtIns=false&spec=false&loose=false&code_lz=MYewdgzgLgBAhgJwTAvDA2gRgDQwEy4DMAugNwBQ5oksEAjgK6ICmEq8SAdALZwAOACmYAbZt1QA-GCLEwAVNNHcAlEA&debug=false&forceAllTransforms=false&shippedProposals=false&circleciRepo=&evaluate=false&fileSize=false&timeTravel=false&sourceType=module&lineWrap=true&presets=es2015%2Creact%2Cstage-2&prettier=false&targets=&version=6.26.0&envVersion=) (demonstrates how much less verbose arrow functions are)
 
 **Learning Resources:**
-* _Exploring ES6_ by Dr. Axel Rauschmayer - [free online version](http://exploringjs.com/es6/index.html)
+* _Exploring ES6_ by Dr. Axel Rauschmayer - [free online version](http://exploringjs.com/es6/index.html), [buy it (PDF, EPUB, MOBI)](https://leanpub.com/exploring-es6/)
