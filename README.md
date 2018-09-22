@@ -4,7 +4,7 @@
 
 * [Goals for Challenge](goals.md)
 * [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
+* [Log - click here to see my progress](/log)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
