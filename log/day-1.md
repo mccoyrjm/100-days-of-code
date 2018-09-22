@@ -1,6 +1,6 @@
 # Day 1: September 21, 2018
 
-**Today's Progress**: Learned about ES6 **const/let**, **string interpolation**, **multi-line strings** and **arrow functions**. Gained an understanding of what the differences between versions are by using Babel's _Try It Out_ editor to convert my written ES6 snippets into ES5. (Also gained an understanding of what Babel actually does and how popular it is.)
+**Today's Progress**: Learned about ES6 **const/let**, **string interpolation**, **multi-line strings** and **arrow functions**. Gained an understanding of what the differences between versions are by using Babel's site editor to convert my written ES6 snippets into ES5. (Also gained an understanding of what Babel actually does and how popular it is.)
 
 **Thoughts:** I've never sat down to learn the inner workings of a language before. It is something I wish I've done earlier with other languages to get a full understanding of what they're truly capable of. This will definitely be a higher priority when learning new languages from now on.
 
