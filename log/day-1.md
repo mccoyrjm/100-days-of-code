@@ -1,6 +1,4 @@
-# 100 Days Of Code - Log
-
-### Day 1: September 21, 2018
+# Day 1: September 21, 2018
 
 **Today's Progress**: Learned about ES6 **const/let**, **string interpolation**, **multi-line strings** and **arrow functions**. Gained an understanding of what the differences between versions are by using Babel's _Try It Out_ editor to convert my written ES6 snippets into ES5. (Also gained an understanding of what Babel actually does and how popular it is.)
 
@@ -14,5 +12,3 @@
 
 **Learning Resources:**
 * _Exploring ES6_ by Dr. Axel Rauschmayer - [free online version](http://exploringjs.com/es6/index.html)
-
----
