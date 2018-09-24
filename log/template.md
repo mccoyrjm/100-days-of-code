@@ -1,6 +1,6 @@
 # Day #: Month Date, Year
 
-**Today's Progress**: 
+**Today's Progress:** 
 
 **Thoughts:** 
 
