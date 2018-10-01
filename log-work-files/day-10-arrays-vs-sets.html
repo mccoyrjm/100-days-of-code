@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Arrays vs. Sets</title>
+</head>
+<body>
+    <script>
+        const array = [1,2,3,4,5,5,5,5];
+        let set = new Set(array);
+
+        // Set only stores unique values
+        console.log(array);
+        console.log(set);
+
+        // Can use Array.from() to convert Set to regular Array
+        console.log("Array.from() result:", Array.from(set));
+
+        console.log("Array Contains 4? ", array.indexOf(4)); // requires appended "!== -1" check
+        console.log("Set Contains 4? ", set.has(4)); // simpler syntax
+
+        console.log(array.includes(4)); // ES6 prototype function, but not all browsers support this
+
+        // **** adding elements ****
+        array.push(11);
+        array.unshift(0);
+        console.log(array);
+
+        set.add(0);
+        set.add(11);
+        console.log(set);
+
+        // **** sorting elements ****
+        array.sort((a, b) => {
+            return a - b;
+        });
+
+        // Set lacks sort function, so must convert back to array and sort and then re-add to Set (if you don't wish to re-initialize set)
+        const sortedSet = Array.from(set).sort((a, b) => {
+            return a - b;
+        });
+
+        set.clear();
+        for(const elem of sortedSet) {
+            set.add(elem);
+        }
+
+        // **** removing elements ****
+
+        // array has more flexibility of how we wanna delete things
+        array.pop();
+        array.unshift();
+        array.splice(2,1);
+        console.log(array);
+
+        // set only has one, but it's easy to use
+        set.delete(5);
+        set.delete(11);
+        console.log(set);
+
+        // When to use Sets? When know beforehand that you are working with unique data.
+        // Otherwise, Arrays should be used due to using less CPU when fetching elements and more flexibility in functionality.
+
+    </script>
+</body>
+</html>
