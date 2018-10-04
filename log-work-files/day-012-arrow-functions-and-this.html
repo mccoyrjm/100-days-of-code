@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Arrow Functions and 'this'</title>
+</head>
+<body>
+    <p>This lesson blew my mind!</p>
+
+    <script>
+        const p = document.querySelector("p");
+
+        // NOT appropriate to use arrow function b/c since 'this' is inherited
+        // from the parent scope 'this' will === Window object
+        p.addEventListener("click", () => {
+            console.log("INCORRECT", this);
+        });
+
+        // function is being bound to correct 'p' reference, so 'this' will be correct
+        p.addEventListener("click", function() {
+            console.log("CORRECT", this);
+
+            // Now INCORRECT
+            setTimeout(function() {
+                console.log("INCORRECT", this); // Window { ... } b/c THIS function is NOT being bound to anything
+            });
+
+            // creating 'self' constant solves, problem...
+            const self = this;
+            setTimeout(function() {
+                console.log("CORRECT w/o Arrow Function (use 'const self = this')", self);
+            });
+
+            // ...but arrow functions can simplify and produce the same result
+            setTimeout(() => {
+                console.log("CORRECT w/ Arrow Function", this); // <p>...</p> b/c 'this' === parent scope
+            });
+
+        });
+
+    </script>
+
+</body>
+</html>
