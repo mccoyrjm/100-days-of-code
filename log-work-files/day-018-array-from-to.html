@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Day 18: Array.from(), Array.to()</title>
+</head>
+<body>
+    <div class="people">
+        <p>Paragraph 1</p>
+        <p>Paragraph 2</p>
+        <p>Paragraph 3</p>
+    </div>
+
+    <script>
+        // grab all paragraphs as DOM Node List (only "array-like")
+        const paragraphElements = document.querySelectorAll(".people p");
+        // use Array.from() to convert list into true array
+        const paragraphs = Array.from(paragraphElements);
+
+        // paragraphs is now iterable
+        for (const p of paragraphs) {
+            console.log(p);
+        }
+
+        // 2nd parameter allows mapping array as you create it
+        const paragraphsContent = Array.from(paragraphElements, (person) => {
+            return person.textContent;
+        });
+        console.log(paragraphsContent);
+
+        function sumAll() {
+            const argumentsArray = Array.from(arguments); // arguments is a keyword and object that is "array-like"
+            const total = argumentsArray.reduce((prev, next) => prev + next, 0);
+            console.log(total);
+        }
+
+        sumAll(234,235,245,3235,32,6,634,523,42,3);
+
+        // similar to Array.from(), you can use Array.of() with an infinite amount of parameters to construct an array
+        // any combo of types is acceptable
+        console.log(Array.of(123,123,5,332,31,23,"Dfd"));
+
+    </script>
+</body>
+</html>
