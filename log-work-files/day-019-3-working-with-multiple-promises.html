@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Multiple Promises</title>
+</head>
+<body>
+
+    <h2>Wes Bos Blog Posts</h2>
+    <ul class="posts"></ul>
+
+    <h2>Paris Street Cars Data Set</h2>
+    <ul class="streetcars"></ul>
+
+    <script>
+
+        const [postsListElement] = document.querySelectorAll(".posts");
+        const [streetCarsListElement] = document.querySelectorAll(".streetcars");
+
+        const postsPromise = fetch("https://wesbos.com/wp-json/wp/v2/posts");
+        const streetCarsPromise = fetch("https://data.ratp.fr/api/datasets/1.0/search/?q=paris");
+
+        Promise
+            .all([postsPromise, streetCarsPromise]) // wait for all promises to resolve
+            .then((responses) => Promise.all(responses.map((res) => res.json()))) // return as json formatted data
+            .then(([posts, streetCars]) => {
+
+                for (const post of posts) {
+                    postsListElement.innerHTML += `<li><a href="${post.link}">${post.title.rendered}</a></li>`;
+                }
+
+                const { datasets } = streetCars;
+                for (const set of datasets) {
+                    streetCarsListElement.innerHTML += `<li>${set.datasetid}</li>`
+                }
+
+            });
+
+    </script>
+</body>
+</html>
