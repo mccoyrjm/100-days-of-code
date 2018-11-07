@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Intro to Promises</title>
+</head>
+<body>
+    <script>
+        console.log("Going to the fetch latest posts from Wes\' Blog");
+        const postsPromise = fetch("https://wesbos.com/wp-json/wp/v2/posts");
+
+        // a "promise" is made to fetch the data and then execute statements when request is complete
+        postsPromise
+            .then((data) => data.json())
+            .then((posts) =>  { console.log("postsPromise fetch Success:", posts); })
+            .catch((err) => { console.log("postsPromise error: ", err); });
+
+        console.log("This log is directly after the promise demonstrating JavaScript's asynchronous behavior.");
+
+        // demonstrate .catch() executing
+        const errorPromise = fetch("https://wesbos.com/wp-JSAN/wp/v2/posts");
+        errorPromise
+            .then((data) => data.json())
+            .then((posts) =>  { console.log("errorPromise fetch Success:", posts); })
+            .catch((err) => { console.log("errorPromise error: ", err); });
+
+    </script>
+</body>
+</html>
