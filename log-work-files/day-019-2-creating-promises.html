@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Creating Promises</title>
+</head>
+<body>
+    <script>
+
+        const resolvePromise = new Promise((resolve, reject) => {
+            resolve("Ryan is cool!");
+        });
+
+        resolvePromise
+            .then((data) => {
+                console.log("Wait 1 second for resolve:");
+                setTimeout(() => {
+                    console.log(data);
+                }, 1000);
+            })
+            .catch((err) => { console.log(err); });
+
+
+        const rejectPromise = new Promise((resolve, reject) => {
+            reject(Error("Ryan is NOT cool...")); // wrap in Error() add additional info to where error actually occurred
+                                                  // (as opposed to lines where .catch() was defined in promise)
+        });
+
+        rejectPromise
+            .then((data) => { console.log(data); })
+            .catch((err) => { console.log(err); }); // prevent "Uncaught (in promise)" error
+
+    </script>
+</body>
+</html>
