@@ -3,5 +3,10 @@
         "es6": true,
         "browser": true
     },
-    "extends": "airbnb-base"
+    "extends": "airbnb-base",
+    "rules": {
+        "linebreak-style": "off",
+        "no-unused-vars": "off",
+        "indent": "off"
+    }
 }
