@@ -1,0 +1,13 @@
+{
+  "main": "index.js",
+  "scripts": {
+    "server": "browser-sync start --directory --server --files '*.js, *.html, *.css'"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "systemjs": "^2.1.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.3"
+  }
+}
