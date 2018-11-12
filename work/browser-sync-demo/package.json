@@ -1,0 +1,15 @@
+{
+  "name": "systemjs-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "browser-sync start --server --files '*.html, css/*.css, *.js'"
+  },
+  "author": "Ryan McCoy",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.26.3"
+  }
+}
