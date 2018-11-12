@@ -1,0 +1,12 @@
+# Logs
+work/**/logs
+work/**/*.log
+work/**/npm-debug.log*
+work/**/yarn-debug.log*
+work/**/yarn-error.log*
+
+# Dependency directories
+work/**/node_modules/
+
+#Webpack Build Files
+dist/main.js
