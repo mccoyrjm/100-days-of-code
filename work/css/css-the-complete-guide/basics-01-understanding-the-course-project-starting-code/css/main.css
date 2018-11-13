@@ -1,0 +1,19 @@
+.background {
+    background: #ff1b68;
+}
+
+.message {
+    font-weight: 800;
+}
+
+.message-error {
+    color: #b40303;
+}
+
+.message-warning {
+    color: #ff7b00;
+}
+
+.message-correct {
+    color: green;
+}
