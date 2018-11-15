@@ -23,4 +23,5 @@
 * [Day 21](https://github.com/mccoyrjm/100-days-of-code/blob/master/log/day-021.md): ES6 Modules & Webpack
 * [Day 22](https://github.com/mccoyrjm/100-days-of-code/blob/master/log/day-022.md): ES6 Tooling
 * [Day 23](https://github.com/mccoyrjm/100-days-of-code/blob/master/log/day-023.md): `await-async`
-* [Day 24](https://github.com/mccoyrjm/100-days-of-code/blob/master/log/day-024.md): Starting "CSS - The Complete Guide" Course
+* [Day 24](https://github.com/mccoyrjm/100-days-of-code/blob/master/log/day-024.md): CSS Basics
+* [Day 25](https://github.com/mccoyrjm/100-days-of-code/blob/master/log/day-025.md): CSS Inheritance & Combinators
