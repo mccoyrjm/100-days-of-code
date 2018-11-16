@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    color: #1a61cc;
+    font-family: sans-serif;
+}
+
+code {
+    color: red;
+    font-family: monospace;
+}
+
+/* Step 4. class selector has higher specificity than element */
+.text-green {
+    color: #0da00d;
+}
+
+li + li {
+    background: black;
+    color: white;
+}
+
+/* Step 6 */
+ol li {
+    background: black;
+    color: white;
+}
