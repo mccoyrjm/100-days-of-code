@@ -28,3 +28,4 @@
 * [Day 26](https://github.com/mccoyrjm/100-days-of-code/blob/master/log/day-026.md): Browser Error Handling, CSS Basics Exercise & Box Model
 * [Day 27](https://github.com/mccoyrjm/100-days-of-code/blob/master/log/day-027.md): CSS Shorthand Properties
 * [Day 28](https://github.com/mccoyrjm/100-days-of-code/blob/master/log/day-028.md): CSS Width & Height, default `box-sizing` behavior
+* [Day 29](https://github.com/mccoyrjm/100-days-of-code/blob/master/log/day-029.md): Clone Site - ddlc.moe
