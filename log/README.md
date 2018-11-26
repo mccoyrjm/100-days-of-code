@@ -1,4 +1,4 @@
-# Table of Contents
+# Log Entries
 
 *  [Day 1](https://github.com/mccoyrjm/100-days-of-code/blob/master/log/day-001.md): `const/let`, `strings` & Arrow Functions
 *  [Day 2](https://github.com/mccoyrjm/100-days-of-code/blob/master/log/day-002.md): Destructuring & `for-of` Loops
@@ -29,3 +29,4 @@
 * [Day 27](https://github.com/mccoyrjm/100-days-of-code/blob/master/log/day-027.md): CSS Shorthand Properties
 * [Day 28](https://github.com/mccoyrjm/100-days-of-code/blob/master/log/day-028.md): CSS Width & Height, default `box-sizing` behavior
 * [Day 29](https://github.com/mccoyrjm/100-days-of-code/blob/master/log/day-029.md): Clone Site - ddlc.moe
+* [Day 30](https://github.com/mccoyrjm/100-days-of-code/blob/master/log/day-030.md): Clone Site - ddlc.moe (cont.)
