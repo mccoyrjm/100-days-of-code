@@ -1,0 +1,40 @@
+html {
+    box-sizing: border-box;
+    height: 100%;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+body {
+    font-family: sans-serif;
+    height: inherit;
+}
+
+/* Step 6 */
+div {
+    display: inline-block;
+}
+/* End Step 6 */
+
+.step-1 {
+    color: #000000;
+    background: #99c9ff;
+    border: 3px solid #1d78ff;
+    margin: 5px 10px 15px 20px;
+    padding: 5px 10px 15px 20px;
+}
+
+.step-4 {
+    height: 300px;
+    width: 50%;
+}
+
+.step-7 {
+    display: none;
+}
+
+body div:last-of-type:hover {
+    background: #ffffe0;
+}
