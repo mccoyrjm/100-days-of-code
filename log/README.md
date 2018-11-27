@@ -31,3 +31,4 @@
 * [Day 29](https://github.com/mccoyrjm/100-days-of-code/blob/master/log/day-029.md): Clone Site - ddlc.moe
 * [Day 30](https://github.com/mccoyrjm/100-days-of-code/blob/master/log/day-030.md): Clone Site - ddlc.moe (cont.)
 * [Day 31](https://github.com/mccoyrjm/100-days-of-code/blob/master/log/day-031.md): `display: inline-block` elements and `vertical-align` property
+* [Day 32](https://github.com/mccoyrjm/100-days-of-code/blob/master/log/day-032.md): `vertical-align` property, Pseudo Classes & Elements
