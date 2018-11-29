@@ -32,4 +32,5 @@
 * [Day 30](https://github.com/mccoyrjm/100-days-of-code/blob/master/log/day-030.md): Clone Site - ddlc.moe (cont.)
 * [Day 31](https://github.com/mccoyrjm/100-days-of-code/blob/master/log/day-031.md): `display: inline-block` elements and `vertical-align` property
 * [Day 32](https://github.com/mccoyrjm/100-days-of-code/blob/master/log/day-032.md): `vertical-align` property, Pseudo Classes & Elements
-* [Day 33](https://github.com/mccoyrjm/100-days-of-code/blob/master/log/day-033.md): More on CSS Classes, Working with #100DaysOfCode Twitter Community, Course Sample Site
+* [Day 33](https://github.com/mccoyrjm/100-days-of-code/blob/master/log/day-033.md): More on CSS Classes, Working with #100DaysOfCode Twitter Community, [uHost](https://codesandbox.io/embed/p71ny96l40?view=preview) Course Sample Site
+* [Day 34](https://github.com/mccoyrjm/100-days-of-code/blob/master/log/day-034.md): [uHost](https://codesandbox.io/embed/p71ny96l40?view=preview) Course Sample Site
