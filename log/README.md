@@ -1,5 +1,6 @@
 # Log Entries
 
+## JavaScript ES6
 *  [Day 1](https://github.com/mccoyrjm/100-days-of-code/blob/master/log/day-001.md): `const/let`, `strings` & Arrow Functions
 *  [Day 2](https://github.com/mccoyrjm/100-days-of-code/blob/master/log/day-002.md): Destructuring & `for-of` Loops
 *  [Day 3](https://github.com/mccoyrjm/100-days-of-code/blob/master/log/day-003.md): Object and Array Destructuring
@@ -23,6 +24,8 @@
 * [Day 21](https://github.com/mccoyrjm/100-days-of-code/blob/master/log/day-021.md): ES6 Modules & Webpack
 * [Day 22](https://github.com/mccoyrjm/100-days-of-code/blob/master/log/day-022.md): ES6 Tooling
 * [Day 23](https://github.com/mccoyrjm/100-days-of-code/blob/master/log/day-023.md): `await-async`
+
+## CSS
 * [Day 24](https://github.com/mccoyrjm/100-days-of-code/blob/master/log/day-024.md): CSS Basics
 * [Day 25](https://github.com/mccoyrjm/100-days-of-code/blob/master/log/day-025.md): CSS Inheritance & Combinators
 * [Day 26](https://github.com/mccoyrjm/100-days-of-code/blob/master/log/day-026.md): Browser Error Handling, CSS Basics Exercise & Box Model
