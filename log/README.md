@@ -26,18 +26,18 @@
 * [Day 23](./day-023.md): `await-async`
 
 ## CSS
-* [Day 24](./day-024.md): CSS Basics
-* [Day 25](./day-025.md): CSS Inheritance & Combinators
-* [Day 26](./day-026.md): Browser Error Handling, CSS Basics Exercise & Box Model
-* [Day 27](./day-027.md): CSS Shorthand Properties
-* [Day 28](./day-028.md): CSS Width & Height, default `box-sizing` behavior
+* [Day 24](./day-024.md): Basics
+* [Day 25](./day-025.md): Inheritance & Combinators
+* [Day 26](./day-026.md): Browser Error Handling, Basics Exercise & Box Model
+* [Day 27](./day-027.md): Shorthand Properties
+* [Day 28](./day-028.md): `width` & `height` properties, default `box-sizing` behavior
 * [Day 29](./day-029.md): Clone Site - ddlc.moe
 * [Day 30](./day-030.md): Clone Site - ddlc.moe (cont.)
 * [Day 31](./day-031.md): `display: inline-block` elements and `vertical-align` property
 * [Day 32](./day-032.md): `vertical-align` property, Pseudo Classes & Elements
-* [Day 33](./day-033.md): More on CSS Classes, Working with #100DaysOfCode Twitter Community, [uHost](https://codesandbox.io/embed/881n9xljn8?view=preview) Course Sample Site
+* [Day 33](./day-033.md): More on Classes, Working with #100DaysOfCode Twitter Community, [uHost](https://codesandbox.io/embed/881n9xljn8?view=preview) Course Sample Site
 * [Day 34](./day-034.md): [uHost](https://codesandbox.io/embed/881n9xljn8?view=preview) Course Sample Site
 * [Day 35](./day-035.md): `float` property
 * [Day 36](./day-036.md): `float` property (cont.)
 * [Day 37](./day-037.md): `position` and `z-index` Properties
-* [Day 38](./day-038.md): CSS `position` Property Research
+* [Day 38](./day-038.md): `position` Property Research
