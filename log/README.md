@@ -40,3 +40,4 @@
 * [Day 35](https://github.com/mccoyrjm/100-days-of-code/blob/master/log/day-035.md): CSS `float` property
 * [Day 36](https://github.com/mccoyrjm/100-days-of-code/blob/master/log/day-036.md): CSS `float` property (cont.)
 * [Day 37](https://github.com/mccoyrjm/100-days-of-code/blob/master/log/day-037.md): CSS `position` and `z-index` Properties
+* [Day 38](https://github.com/mccoyrjm/100-days-of-code/blob/master/log/day-038.md): CSS `position` Property Research
