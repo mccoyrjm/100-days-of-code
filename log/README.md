@@ -18,7 +18,7 @@
 * [Day 15](./day-015.md): Dabbling in TypeScript Definition Files
 * [Day 16](./day-016.md): Re-Review of `string` Functions
 * [Day 17](./day-017.md): Destructuring Arrays & Objects
-* [Day 18](./day-018.md): Destructuring, Iterables and Looping, Array functions &.
+* [Day 18](./day-018.md): Destructuring, Iterables and Looping, Array functions & Spread Operator(...)
 * [Day 19](./day-019.md): `Object` Literal Upgrades, Promises & Symbols
 * [Day 20](./day-020.md): ESLint 101
 * [Day 21](./day-021.md): ES6 Modules & Webpack
@@ -28,13 +28,16 @@
 ## CSS
 * [Day 24](./day-024.md): CSS Basics
 * [Day 25](./day-025.md): CSS Inheritance & Combinators
-* [Day 26](./day-026.md): Browser Error Handling, CSS Basics Exercise & Box Model./day-027.md): CSS Shorthand Properties
+* [Day 26](./day-026.md): Browser Error Handling, CSS Basics Exercise & Box Model
+* [Day 27](./day-027.md): CSS Shorthand Properties
 * [Day 28](./day-028.md): CSS Width & Height, default `box-sizing` behavior
 * [Day 29](./day-029.md): Clone Site - ddlc.moe
 * [Day 30](./day-030.md): Clone Site - ddlc.moe (cont.)
-* [Day 31](./day-031.md): `display: inline-block` elements and `vertical-a./day-032.md): `vertical-align` property, Pseudo Classes & Elements
-* [Day 33](./day-033.md): More on CSS Classes, Working with #100DaysOfCode Twitter Com.=preview) Course Sample Site
-* [Day 34](./day-034.md): [uHost](https://codesandbox.io/embed/881n9xljn8?view=previe./day-035.md): CSS `float` property
-* [Day 36](./day-036.md): CSS `float` property (cont.)
-* [Day 37](./day-037.md): CSS `position` and `z-index` Properties
+* [Day 31](./day-031.md): `display: inline-block` elements and `vertical-align` property
+* [Day 32](./day-032.md): `vertical-align` property, Pseudo Classes & Elements
+* [Day 33](./day-033.md): More on CSS Classes, Working with #100DaysOfCode Twitter Community, [uHost](https://codesandbox.io/embed/881n9xljn8?view=preview) Course Sample Site
+* [Day 34](./day-034.md): [uHost](https://codesandbox.io/embed/881n9xljn8?view=preview) Course Sample Site
+* [Day 35](./day-035.md): `float` property
+* [Day 36](./day-036.md): `float` property (cont.)
+* [Day 37](./day-037.md): `position` and `z-index` Properties
 * [Day 38](./day-038.md): CSS `position` Property Research
