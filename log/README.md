@@ -43,3 +43,4 @@
 * [Day 38](./day-038.md): `position` Property Research
 * [Day 39](./day-039.md): Finalize work on `position` Property
 * [Day 40](./day-040.md): `background` & `background-size` Properties
+* [Day 41](./day-041.md): `background-position` Property
