@@ -46,4 +46,4 @@
 * [Day 41](./day-041.md): `background-position` Property
 * [Day 42](./day-042.md): `background-origin` & `background-clip` Properties
 * [Day 43](./day-043.md): `background-clip` Property, [uHost](https://codesandbox.io/embed/881n9xljn8?view=preview) Course Sample Site & `<img>` Border Behavior
-* [Day 44](./day-044.md): [uHost](https://codesandbox.io/embed/881n9xljn8?view=preview) Course Sample Site
+* [Day 44](./day-044.md): [uHost](https://codesandbox.io/embed/881n9xljn8?view=preview) Course Sample Site, Filters and Gradients
