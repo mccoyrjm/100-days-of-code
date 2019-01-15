@@ -21,3 +21,5 @@ Combining this with the nature of the 100DaysOfCode challenge, I will become mor
 
 ## Thoughts at Halfway Point (aka Day 50)
 * Pre Day 50 thoughts - [Day 47](./log/day-047.md)
+
+Coming soon...
