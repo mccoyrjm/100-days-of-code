@@ -49,4 +49,4 @@
 * [Day 44](./day-044.md): [uHost](https://codesandbox.io/embed/881n9xljn8?view=preview) Course Sample Site, Filters and Gradients
 * [Day 45](./day-045.md): Finish "Understanding Background Images & Images" Module
 * [Day 46](./day-046.md): 3 Rules for % Unit
-* [Day 47](./day-047.md): Pre-Halfway Point Thoughts
+* [Day 47](./day-047.md): Pre-Halfway Point Thoughts, `em` vs. `rem` Units
