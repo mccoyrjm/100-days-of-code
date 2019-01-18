@@ -1,6 +1,6 @@
 # Goals for Challenge
 
-The main focus of this challenge will be to continue my education of Front-End development following the [Front-End Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) by [kamranahmedse](https://github.com/kamranahmedse/developer-roadmap/commits?author=kamranahmedse).
+The main focus of this challenge will be to continue my education of Front-End development following the [Front-End Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) by [kamranahmedse](https://github.com/kamranahmedse).
 
 ## Starting Out
 As of September 21st, 2018, I have 2 years of Front-End development work experience focused primarily in using HTML, TypeScript/JavaScript and 3rd party component libraries (e.g. [Kendo UI](https://www.telerik.com/kendo-ui), [Vuetify](https://vuetifyjs.com/en/)). I have an understanding of component-based design and have started to be more exposed to the Vue.js framework through my current work position.
