@@ -52,3 +52,4 @@
 * [Day 47](./day-047.md): Pre-Halfway Point Thoughts, `em` vs. `rem` Units
 * [Day 48](./day-048.md): `rem` Practice, `vh` and `vw` Units
 * [Day 49](./day-049.md): Referral Call, StackOverflow and "CSS & JS" Course Module
+* [Day 50](./day-050.md): Finish "CSS & JS" Course Module, Responsive `<meta>` Tag & "Mobile First" Design
