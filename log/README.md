@@ -35,8 +35,8 @@
 * [Day 30](./day-030.md): Clone Site - ddlc.moe (cont.)
 * [Day 31](./day-031.md): `display: inline-block` elements and `vertical-align` property
 * [Day 32](./day-032.md): `vertical-align` property, Pseudo Classes & Elements
-* [Day 33](./day-033.md): More on Classes, Working with #100DaysOfCode Twitter Community, [uHost](https://codesandbox.io/embed/881n9xljn8?view=preview) Course Sample Site
-* [Day 34](./day-034.md): [uHost](https://codesandbox.io/embed/881n9xljn8?view=preview) Course Sample Site
+* [Day 33](./day-033.md): More on Classes, Working with #100DaysOfCode Twitter Community, [uHost](https://codesandbox.io/embed/vm3qvyj283?view=preview) Course Sample Site
+* [Day 34](./day-034.md): [uHost](https://codesandbox.io/embed/vm3qvyj283?view=preview) Course Sample Site
 * [Day 35](./day-035.md): `float` property
 * [Day 36](./day-036.md): `float` property (cont.)
 * [Day 37](./day-037.md): `position` and `z-index` Properties
@@ -45,13 +45,13 @@
 * [Day 40](./day-040.md): `background` & `background-size` Properties
 * [Day 41](./day-041.md): `background-position` Property
 * [Day 42](./day-042.md): `background-origin` & `background-clip` Properties
-* [Day 43](./day-043.md): `background-clip` Property, [uHost](https://codesandbox.io/embed/881n9xljn8?view=preview) Course Sample Site & `<img>` Border Behavior
-* [Day 44](./day-044.md): [uHost](https://codesandbox.io/embed/881n9xljn8?view=preview) Course Sample Site, Filters and Gradients
+* [Day 43](./day-043.md): `background-clip` Property, [uHost](https://codesandbox.io/embed/vm3qvyj283?view=preview) Course Sample Site & `<img>` Border Behavior
+* [Day 44](./day-044.md): [uHost](https://codesandbox.io/embed/vm3qvyj283?view=preview) Course Sample Site, Filters and Gradients
 * [Day 45](./day-045.md): Finish "Understanding Background Images & Images" Module
 * [Day 46](./day-046.md): 3 Rules for % Unit
 * [Day 47](./day-047.md): Pre-Halfway Point Thoughts, `em` vs. `rem` Units
 * [Day 48](./day-048.md): `rem` Practice, `vh` and `vw` Units
 * [Day 49](./day-049.md): Referral Call, StackOverflow and "CSS & JS" Course Module
 * [Day 50](./day-050.md): Finish "CSS & JS" Course Module, Responsive `<meta>` Tag & "Mobile First" Design
-* [Day 51](./day-051.md): Media Queries and Refactoring of [uHost](https://codesandbox.io/embed/881n9xljn8?view=preview) Course Sample Site to be Responsive
-* [Day 52](./day-052.md): Finish Responsive Refactor of [uHost](https://codesandbox.io/embed/881n9xljn8?view=preview) Course Sample Site
+* [Day 51](./day-051.md): Media Queries and Refactoring of [uHost](https://codesandbox.io/embed/vm3qvyj283?view=preview) Course Sample Site to be Responsive
+* [Day 52](./day-052.md): Finish Responsive Refactor of [uHost](https://codesandbox.io/embed/vm3qvyj283?view=preview) Course Sample Site
