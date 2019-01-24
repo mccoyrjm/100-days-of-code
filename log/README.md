@@ -54,3 +54,4 @@
 * [Day 49](./day-049.md): Referral Call, StackOverflow and "CSS & JS" Course Module
 * [Day 50](./day-050.md): Finish "CSS & JS" Course Module, Responsive `<meta>` Tag & "Mobile First" Design
 * [Day 51](./day-051.md): Media Queries and Refactoring of [uHost](https://codesandbox.io/embed/881n9xljn8?view=preview) Course Sample Site to be Responsive
+* [Day 52](./day-052.md): Finish Responsive Refactor of [uHost](https://codesandbox.io/embed/881n9xljn8?view=preview) Course Sample Site
