@@ -55,5 +55,5 @@
 * [Day 50](./day-050.md): Finish "CSS & JS" Course Module, Responsive `<meta>` Tag & "Mobile First" Design
 * [Day 51](./day-051.md): Media Queries and Refactoring of [uHost](https://codesandbox.io/embed/vm3qvyj283?view=preview) Course Sample Site to be Responsive
 * [Day 52](./day-052.md): Finish Responsive Refactor of [uHost](https://codesandbox.io/embed/vm3qvyj283?view=preview) Course Sample Site
-* [Day 53](./day-053.md): Styling Forms & Advanced Attribute Selectors
+* [Day 53](./day-053.md): Styling Forms & Attribute Selectors
 * [Day 54](./day-054.md): Attribute Selectors Tutorial
