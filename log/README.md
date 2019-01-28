@@ -57,4 +57,5 @@
 * [Day 52](./day-052.md): Finish Responsive Refactor of [uHost](https://codesandbox.io/embed/vm3qvyj283?view=preview) Course Sample Site
 * [Day 53](./day-053.md): Styling Forms & Attribute Selectors
 * [Day 54](./day-054.md): Attribute Selectors Tutorial
-* [Day 55](./day-055.md): Attribute Selectors Tutorial (cont.)
+* [Day 55](./day-055.md): Attribute Selectors Tutorial (part 2)
+* [Day 56](./day-056.md): Attribute Selectors Tutorial (part 3)
