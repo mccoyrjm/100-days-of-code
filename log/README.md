@@ -59,3 +59,4 @@
 * [Day 54](./day-054.md): Attribute Selectors Tutorial
 * [Day 55](./day-055.md): Attribute Selectors Tutorial (part 2)
 * [Day 56](./day-056.md): Attribute Selectors Tutorial (part 3)
+* [Day 57](./day-057.md): Styling Forms & "All About Fonts!"
