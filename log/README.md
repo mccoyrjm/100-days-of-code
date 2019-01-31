@@ -61,3 +61,4 @@
 * [Day 56](./day-056.md): Attribute Selectors Tutorial (part 3)
 * [Day 57](./day-057.md): Styling Forms & "All About Fonts!"
 * [Day 58](./day-058.md): Adding Custom Fonts & Font Formats, Properties and Loading Performance
+* [Day 59](./day-059.md): Flexbox
