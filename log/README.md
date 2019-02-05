@@ -64,3 +64,4 @@
 * [Day 59](./day-059.md): Flexbox
 * [Day 60](./day-060.md): Flexbox (part 2)
 * [Day 61](./day-061.md): Flexbox (part 3)
+* [Day 62](./day-062.md): CSS grid
