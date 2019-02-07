@@ -66,3 +66,4 @@
 * [Day 61](./day-061.md): Flexbox (part 3)
 * [Day 62](./day-062.md): CSS Grid
 * [Day 63](./day-063.md): CSS Grid (part 2)
+* [Day 64](./day-064.md): CSS Grid (part 3) & Re-evaluation of Learning Style
