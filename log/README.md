@@ -68,3 +68,4 @@
 * [Day 63](./day-063.md): CSS Grid (part 2)
 * [Day 64](./day-064.md): CSS Grid (part 3) & Re-evaluation of Learning Style
 * [Day 65](./day-065.md): CSS Grid (part 4)
+* [Day 66](./day-066.md):
