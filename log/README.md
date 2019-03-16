@@ -71,3 +71,4 @@
 * [Day 66](./day-066.md): CSS Variables
 * [Day 67](./day-067.md): CSS Transforms
 * [Day 68](./day-068.md): CSS Transforms (part 2)
+* [Day 69](./day-069.md): CSS Transforms (part 3)
