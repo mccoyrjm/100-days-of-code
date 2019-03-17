@@ -1,0 +1,54 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::before, ::after {
+    box-sizing: inherit;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+.box--red {
+    height: 10rem;
+    width: 10rem;
+    border: 8px solid #a30000;
+    background-color: #ff5757;
+}
+
+.box--red:hover {
+    border-color: #a36f00;
+    background-color: #ffca57;
+}
+
+.box--green {
+    height: 10rem;
+    width: 10rem;
+    border: 8px solid #008106;
+    background-color: #27c86a;
+}
+
+.box--green:hover {
+    border-color: #3e00a3;
+    background-color: #8457ff;
+}
+
+.box--blue {
+    height: 10rem;
+    width: 10rem;
+    border: 8px solid #001881;
+    background-color: #4293fb;
+}
+
+.box--blue:hover {
+    border-color: #c2b500;
+    background-color: #f8ff94;
+}
+
+.trans--background-and-border-color {
+    transition: background-color, border-color, 0.5s linear;
+    /* transition-property: background-color border-color;
+    transition-duration: 0.5s;
+    transition-timing-function: linear; */
+}

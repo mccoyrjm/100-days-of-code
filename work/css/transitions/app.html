@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="styles.css">
+    <title>CSS Transitions</title>
+</head>
+<body>
+    <h1>Transitions</h1>
+    <p>Four related properties in total:</p>
+    <ul>
+        <li><code>transition-property</code></li>
+        <li><code>transition-duration</code></li>
+        <li><code>transition-timing-function</code></li>
+        <li><code>transition-delay</code></li>
+    </ul>
+
+    <h2>Example 1</h2>
+    <p>Change <code>background-color</code> and <code>border-color</code> of boxes on :hover</p>
+
+    <figure class="box--red trans--background-and-border-color" style="display: inline-block;"></figure>
+    <figure class="box--green trans--background-and-border-color" style="display: inline-block;"></figure>
+    <figure class="box--blue trans--background-and-border-color" style="display: inline-block;"></figure>
+    <!--
+        Support: Chrome - Elements using 'transition'
+        Description: Elements using CSS 'transition' will fire the transition on page load. A script tag with ' ' will prevent this.
+        Resources: https://stackoverflow.com/questions/14389566/stop-css3-transition-from-firing-on-page-load
+     -->
+    <script> </script>
+</body>
+</html>
