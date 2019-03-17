@@ -68,7 +68,8 @@
 * [Day 63](./day-063.md): CSS Grid (part 2)
 * [Day 64](./day-064.md): CSS Grid (part 3) & Re-evaluation of Learning Style
 * [Day 65](./day-065.md): CSS Grid (part 4)
-* [Day 66](./day-066.md): CSS Variables
-* [Day 67](./day-067.md): CSS Transforms
-* [Day 68](./day-068.md): CSS Transforms (part 2)
-* [Day 69](./day-069.md): CSS Transforms (part 3)
+* [Day 66](./day-066.md): Variables
+* [Day 67](./day-067.md): Transforms
+* [Day 68](./day-068.md): Transforms (part 2)
+* [Day 69](./day-069.md): Transforms (part 3)
+* [Day 70](./day-070.md): Transitions
