@@ -21,13 +21,24 @@
     </ul>
 
     <section class="example">
-        <h2 class="u-trim-spacing--top">Example 1</h2>
+        <h2 class="u-trim-spacing--top u-trim-spacing--bottom">Example 1 - Basic Transition</h2>
         <hr>
         <p>Change <code>background-color</code> and <code>border-color</code> of boxes on <span class="u-text--bold">:hover</span></p>
 
         <figure class="box box--red"></figure>
         <figure class="box box--green"></figure>
         <figure class="box box--blue"></figure>
+    </section>
+
+    <section class="example">
+        <h2 class="u-trim-spacing--top u-trim-spacing--bottom">Example 2 - Multiple Transitions</h2>
+        <hr>
+        <p>Change <code>background-color</code> and <code>border-color</code> of boxes in 500ms and <code>border-radius</code> in 1.5s on <span class="u-text--bold">:hover</span></p>
+        <p>This demonstrates how different properties of an element can transition independently from each other.</p>
+
+        <figure class="box box--red transition--example-2 example-2--hover"></figure>
+        <figure class="box box--green transition--example-2 example-2--hover"></figure>
+        <figure class="box box--blue transition--example-2 example-2--hover"></figure>
     </section>
 
     <!--
