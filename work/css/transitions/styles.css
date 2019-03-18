@@ -10,9 +10,29 @@ body {
     font-family: sans-serif;
 }
 
-.box--red {
+code {
+    font-weight: 700;
+    background-color: #aaaaaa;
+    padding: .1rem;
+}
+
+.example {
+    display: inline-block;
+    min-width: 300px;
+    border: 4px solid #000000;
+    background-color: #eeeeee;
+    padding: 1rem;
+}
+
+.box {
     height: 10rem;
     width: 10rem;
+    border: 8px solid #000000;
+    background-color: #ffffff;
+    transition: background-color, border-color, 0.5s linear;
+}
+
+.box--red {
     border: 8px solid #a30000;
     background-color: #ff5757;
 }
@@ -23,8 +43,6 @@ body {
 }
 
 .box--green {
-    height: 10rem;
-    width: 10rem;
     border: 8px solid #008106;
     background-color: #27c86a;
 }
@@ -35,8 +53,6 @@ body {
 }
 
 .box--blue {
-    height: 10rem;
-    width: 10rem;
     border: 8px solid #001881;
     background-color: #4293fb;
 }
@@ -44,11 +60,4 @@ body {
 .box--blue:hover {
     border-color: #c2b500;
     background-color: #f8ff94;
-}
-
-.trans--background-and-border-color {
-    transition: background-color, border-color, 0.5s linear;
-    /* transition-property: background-color border-color;
-    transition-duration: 0.5s;
-    transition-timing-function: linear; */
 }
