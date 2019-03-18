@@ -73,3 +73,4 @@
 * [Day 68](./day-068.md): Transforms (part 2)
 * [Day 69](./day-069.md): Transforms (part 3)
 * [Day 70](./day-070.md): Transitions
+* [Day 71](./day-071.md): Transitions (part 2)
