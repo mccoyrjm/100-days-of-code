@@ -25,6 +25,7 @@ code {
 }
 
 .box {
+    display: inline-block;
     height: 10rem;
     width: 10rem;
     border: 8px solid #000000;
