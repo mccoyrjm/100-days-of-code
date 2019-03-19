@@ -1,0 +1,36 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::before, ::after {
+    box-sizing: inherit;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+.container {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 4px solid #000000;
+    background: #ececec;
+}
+
+.container--image > img {
+    display: block;
+}
+
+.item {
+    height: 3rem;
+    width: 4rem;
+    margin: .5rem;
+    border: 2px solid #00368d;
+    background: #67a9ff;
+}
+
+.u-align-center--flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
