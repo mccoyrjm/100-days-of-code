@@ -75,3 +75,4 @@
 * [Day 70](./day-070.md): Transitions
 * [Day 71](./day-071.md): Transitions (part 2)
 * [Day 72](./day-072.md): Centering Elements with Flexbox
+* [Day 73](./day-073.md): Animations and "Transitions vs. Animations"
