@@ -44,13 +44,13 @@ code {
     background-color: #ff5757;
 }
 
-.animation--rainbow:hover {
+.animation--rainbow {
     animation-name: rainbow;
     animation-duration: 2.5s;
     animation-direction: alternate;
     /* Since we are playing the animation again using animation-direction: alternate,
-       we need to allocate 2 iterations total to execute this. */
-    animation-iteration-count: 2;
+       we need to allocate at least 2 iterations total to execute this. */
+    animation-iteration-count: infinite;
 }
 
 .ball {
@@ -67,8 +67,8 @@ code {
     background-color: #4293fb;
 }
 
-.animation--bounce:hover {
-    animation: bounce 1s ease-out;
+.animation--bounce {
+    animation: bounce 1s ease-out infinite;
 }
 
 @keyframes rainbow {
