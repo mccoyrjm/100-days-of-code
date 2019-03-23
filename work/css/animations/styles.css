@@ -45,8 +45,12 @@ code {
 }
 
 .animation--rainbow:hover {
-    animation: rainbow 2.5s 2;
+    animation-name: rainbow;
+    animation-duration: 2.5s;
     animation-direction: alternate;
+    /* Since we are playing the animation again using animation-direction: alternate,
+       we need to allocate 2 iterations total to execute this. */
+    animation-iteration-count: 2;
 }
 
 .ball {
@@ -63,8 +67,8 @@ code {
     background-color: #4293fb;
 }
 
-.animation--bounce {
-    animation: bounce 3s;
+.animation--bounce:hover {
+    animation: bounce 1s ease-out;
 }
 
 @keyframes rainbow {
@@ -93,5 +97,26 @@ code {
         border-color: #3e00a3;
         background-color: #8457ff;
         border-radius: 50%;
+    }
+}
+
+@keyframes bounce {
+    0% {
+        transform: translateY(0px) scaleY(1.2);
+    }
+    35% {
+        transform: translateY(0px) scaleY(1.2);
+    }
+    65% {
+        transform: translateY(340px) scaleY(1.2);
+    }
+    67% {
+        transform: translateY(370px) scaleY(0.8);
+    }
+    85% {
+        transform: translateY(252px) scaleY(1.2);
+    }
+    100% {
+        transform: translateY(352px);
     }
 }
