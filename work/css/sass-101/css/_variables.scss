@@ -1,0 +1,5 @@
+// $main-color: #521751;
+$colors: (main: #521751, secondary: #fa923f);
+$border-default: 0.05rem solid map-get($colors, main);
+$tablet-width: 40rem;
+$size-default: 1rem;
