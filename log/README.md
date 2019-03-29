@@ -79,3 +79,4 @@
 * [Day 74](./day-074.md): SASS/SCSS
 * [Day 75](./day-075.md): SASS/SCSS (part 2)
 * [Day 76](./day-076.md): SASS/SCSS (part 3)
+* [Day 77](./day-077.md): Writing Future-Proof Code & Course Completion
