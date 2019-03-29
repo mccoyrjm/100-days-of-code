@@ -78,3 +78,4 @@
 * [Day 73](./day-073.md): Animations and "Transitions vs. Animations"
 * [Day 74](./day-074.md): SASS/SCSS
 * [Day 75](./day-075.md): SASS/SCSS (part 2)
+* [Day 76](./day-076.md): SASS/SCSS (part 3)
