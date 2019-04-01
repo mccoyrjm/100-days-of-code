@@ -80,3 +80,4 @@
 * [Day 75](./day-075.md): SASS/SCSS (part 2)
 * [Day 76](./day-076.md): SASS/SCSS (part 3)
 * [Day 77](./day-077.md): Writing Future-Proof Code & Course Completion
+* [Day 78](./day-078.md): VSCode Extensions & Next Steps
