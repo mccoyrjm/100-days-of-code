@@ -7,9 +7,9 @@ As of September 21st, 2018, I have 2 years of Front-End development work experie
 
 ## Plan (in this order)
 * [x] Strengthen current JavaScript skill by learning ES6 features
-* [ ] Fill knowledge gap of CSS3
-* [ ] Learn about CSS Preprocessors
-* [ ] Learn BEM CSS Architecture
+* [x] Fill knowledge gap of CSS3
+* [x] Learn about CSS Preprocessors
+* [x] Learn BEM CSS Architecture
 * [ ] Pick framework and build application using it
 
 # Thoughts at Start of Challenge
