@@ -1,3 +1,3 @@
 # CSS3
 
-Files related to CSS3.
+Projects related to CSS3.
