@@ -82,4 +82,4 @@
 * [Day 77](./day-077.md): Writing Future-Proof Code & Course Completion
 * [Day 78](./day-078.md): VSCode Extensions & Next Steps
 * [Day 79](./day-079.md): CSS Variables in IE11
-* [Day 79](./day-080.md): Build Tools: ESLint
+* [Day 80](./day-080.md): Build Tools: ESLint
