@@ -32,7 +32,7 @@
 * [Day 27](./day-027.md): Shorthand Properties
 * [Day 28](./day-028.md): `width` & `height` properties, default `box-sizing` behavior
 * [Day 29](./day-029.md): Clone Site - ddlc.moe
-* [Day 30](./day-030.md): Clone Site - ddlc.moe (cont.)
+* [Day 30](./day-030.md): Clone Site - ddlc.moe (part 2)
 * [Day 31](./day-031.md): `display: inline-block` elements and `vertical-align` property
 * [Day 32](./day-032.md): `vertical-align` property, Pseudo Classes & Elements
 * [Day 33](./day-033.md): More on Classes, Working with #100DaysOfCode Twitter Community, [uHost](https://codesandbox.io/embed/vm3qvyj283?view=preview) Course Sample Site
@@ -84,3 +84,4 @@
 * [Day 79](./day-079.md): CSS Variables in IE11
 * [Day 80](./day-080.md): Build Tools: ESLint
 * [Day 81](./day-081.md): Build Tools: ESLint & Babel
+* [Day 82](./day-082.md): Clone Site - ddlc.moe (part 3)
