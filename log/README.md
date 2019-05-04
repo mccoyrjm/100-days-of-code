@@ -87,3 +87,4 @@
 * [Day 82](./day-082.md): Clone Site - ddlc.moe (part 3)
 * [Day 83](./day-083.md): Clone Site - ddlc.moe (part 4)
 * [Day 84](./day-084.md): Clone Site - ddlc.moe (part 5)
+* [Day 85](./day-085.md): Clone Site - ddlc.moe (part 6)
