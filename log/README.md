@@ -80,6 +80,8 @@
 * [Day 75](./day-075.md): SASS/SCSS (part 2)
 * [Day 76](./day-076.md): SASS/SCSS (part 3)
 * [Day 77](./day-077.md): Writing Future-Proof Code & Course Completion
+
+## Misc.
 * [Day 78](./day-078.md): VSCode Extensions & Next Steps
 * [Day 79](./day-079.md): CSS Variables in IE11
 * [Day 80](./day-080.md): Build Tools: ESLint
