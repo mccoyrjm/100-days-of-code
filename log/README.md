@@ -90,3 +90,7 @@
 * [Day 83](./day-083.md): Clone Site - ddlc.moe (part 4)
 * [Day 84](./day-084.md): Clone Site - ddlc.moe (part 5)
 * [Day 85](./day-085.md): Clone Site - ddlc.moe (part 6)
+
+## Project: Game Collection Tracker
+* [Day 86](./day-086.md): Initial Setup & Tech Stack
+* [Day 87](./day-087.md): First calls to IGDB API via Proxy Server
