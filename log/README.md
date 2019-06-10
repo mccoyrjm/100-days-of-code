@@ -95,3 +95,4 @@
 * [Day 86](./day-086.md): Initial Setup & Tech Stack
 * [Day 87](./day-087.md): First calls to IGDB API via Proxy Server
 * [Day 88](./day-088.md): `QueryBuilder` Module and Client calls to Proxy Server
+* [Day 89](./day-089.md): Getting Started w/ Webpack
