@@ -101,3 +101,4 @@
 * [Day 92](./day-092.md): View and Add Games to Collection
 * [Day 93](./day-093.md): Move to Trello & Refactoring
 * [Day 94](./day-094.md): Styled Site Components
+* [Day 95](./day-094.md): Designing in Adobe XD
