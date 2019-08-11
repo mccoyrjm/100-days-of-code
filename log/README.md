@@ -102,3 +102,4 @@
 * [Day 93](./day-093.md): Move to Trello & Refactoring
 * [Day 94](./day-094.md): Styled Site Components
 * [Day 95](./day-094.md): Designing in Adobe XD
+* [Day 95](./day-095.md): Conversion to Vue.js App
